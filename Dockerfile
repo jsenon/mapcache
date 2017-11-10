@@ -1,6 +1,6 @@
 FROM debian:stretch
 
-LABEL version="1.0"
+LABEL version="1.1"
 LABEL description="Mapcache is used to cache content for Mapserver"
 LABEL maintainer="julien.senon@gmail.com"
 
