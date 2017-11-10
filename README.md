@@ -17,5 +17,3 @@ Get help:
 $ docker run -d -p 80:80 -v vol:/var/sig/tiles jsenon/mapcache
 ```
 
-
-
